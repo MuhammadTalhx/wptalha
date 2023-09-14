@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding:0px;
+    outline: none !important;
+}
+
+.body{
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+background-color: blue;
+}
+section{
+    padding: 100px 0px; 
+}
+@media (max-width:1600px){
+section{
+    padding: 100px 0px; 
+}
+    
+}
+.nav-link{
+ color: red;
+ text-align: left;
+}
+h1{
+font-size: 77px;
+line-height: 87px;
+margin-bottom:15px;
+color: #333;
+font-weight: 700;
+}
+h2{
+    font-size: 45px;
+line-height: 55px;
+margin-bottom:10px;
+color: #333;
+font-weight: 700;
+}
+h3{
+    font-size: 30px;
+line-height: 40px;
+margin-bottom:10px;
+color: red;
+font-weight: 700;
+}
+h4{
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom:15px;
+    color: #3b8df3;
+    font-weight: 700;
+}
+p{
+font-size: 15px;
+line-height: 22px;
+margin-bottom: 10px;
+color: #292929;
+}
+
+/*----Header-----*/
+.header{
+    padding: 0px 100px;
+    background: blue;
+}
+.navbar-expand-lg .navbar-collapse {
+    padding: 0%;
+    
+}
+.navbar-expand-lg .navbar-collapse .nav-link  {
+    padding-right: 25px;
+    padding-left: 50px;
+    padding-top: 10px;
+font-size: 16px;
+}
+
+/*-------end-Header-----*/
+
+/*------bnnner-----------8*/
+ .theme-bg{
+    background-color: black;
+ }
+ 
+ .banner-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ } 
+.banner-text h1{
+    font-size: 4.1vw;
+    line-height: calc(4.1vw + 10px);
+    margin-bottom: 15px;
+    color: red;
+    font-weight: 700;
+    
+}
+p{
+    color: red;
+}
+/*---end bnnner*/
+
+/* Next Part */
+
+.title-text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.title-text p {
+    color: red;
+    margin-bottom: 30px;
+    
+}
+.title-text h2 {
+    color: red;
+}
+section {
+    background-color: black;
+}
+.box-module{
+    border: solid 1px red;
+    padding: 16px;
+    text-align: center;
+}
+.fa-solid {
+    color: red;
+}
+.box-module i {
+    font-size: 45px;
+    color: red;
+}
+.cta-text{
+    color: red;
+    font-size: 15px;
+}
+/* Next Part end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
